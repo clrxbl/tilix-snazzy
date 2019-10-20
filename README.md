@@ -1,7 +1,7 @@
 # tilix-snazzy
-> Snazzy theme for Tilix
+> Snazzy theme for [Tilix](https://gnunn1.github.io/tilix-web/)
 
-Based off of https://github.com/sindresorhus/hyper-snazzy & ported to Tilix.
+Based off of https://github.com/sindresorhus/hyper-snazzy & ported to [Tilix](https://gnunn1.github.io/tilix-web/).
 
 ![](https://github.com/sindresorhus/hyper-snazzy/raw/master/screenshot.png)
 
